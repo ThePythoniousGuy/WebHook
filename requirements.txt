@@ -1,0 +1,8 @@
+python-telegram-bot==20.0a2
+aiohttp
+pymongo
+dnspython
+requests
+starlette
+uvicorn
+flask
